@@ -1,0 +1,19 @@
+<html t:type="layout"
+      title="Scouting With Troop 228"
+      xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:t="http://tapestry.apache.org/schema/tapestry_5_3.xsd"
+      xmlns:p="tapestry:parameter">
+    <div id="editdiv" style="display: none">
+        <textarea name="editor1"></textarea>
+        <script>
+            CKEDITOR.replace('editor1');
+        </script>
+    </div>
+    <br/>
+    <button id="editbutton" onclick="$('editdiv').style.display = 'inline'; $('savebutton').style.display = 'inline'; $('editbutton').style.display = 'none';">
+        Edit Announcements
+    </button>
+    <button id="savebutton" onclick="$('editdiv').style.display = 'none'; $('savebutton').style.display = 'none'; $('editbutton').style.display = 'inline';" style="display: none">
+        Save
+    </button>
+</html>
