@@ -36,7 +36,6 @@ Description: A Web 2.0 design with fluid width suitable for blogs and small webs
             </table>
         </div>
         <div id="page" class="container">
-
             <div id="menu">
                 <ul>
                     <t:loop source="pageNames" value="pageName">
