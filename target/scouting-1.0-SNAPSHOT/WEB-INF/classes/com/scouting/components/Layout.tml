@@ -18,45 +18,64 @@ Description: A Web 2.0 design with fluid width suitable for blogs and small webs
         <title>${title}</title>
     </head>
     <body t:type="any">
-        <div id="header">
-            <table id="table1">
-                <tr>
-                    <td id="td1">
-                        <div id="logo">
-                            <img src="${context:layout/images/Boy-Scouts-Logo1.jpg}" alt=""/>
-                            <h1>
-                                <t:pagelink page="home">Scout Troop 228</t:pagelink>
-                            </h1>
-                        </div>    
-                    </td>
-                    <td id="td2">
-                        <img class="displayed" src="${context:layout/images/SBC_pw-sl-scout-t.jpg}" alt=""/>
-                    </td>
-                </tr>
-            </table>
-        </div>
+        <!--        <div id="header">
+                    <table id="table1">
+                        <tr>
+                            <td id="td1">
+                                <div id="logo">
+                                    <img src="${context:layout/images/Boy-Scouts-Logo1.jpg}" alt=""/>
+                                    <h1>
+                                        <t:pagelink page="home">Scout Troop 228</t:pagelink>
+                                    </h1>
+                                </div>
+                            </td>
+                            <td id="td2">
+                                <img class="displayed" src="${context:layout/images/SBC_pw-sl-scout-t.jpg}" alt=""/>
+                            </td>
+                        </tr>
+                    </table>
+                </div>-->
         <div id="page" class="container">
             <div id="menu">
-                <ul>
+                <div id="header">
+                    <table id="table1">
+                        <tr>
+                            <td id="td1">
+                                <div id="logo">
+                                    <img src="${context:layout/images/Boy-Scouts-Logo1.jpg}" alt=""/>
+                                    <h1>
+                                        <t:pagelink page="home">Scout Troop 228</t:pagelink>
+                                    </h1>
+                                </div>
+                            </td>
+                        </tr>
+                    </table>
+                </div>
+                <ul class="style1">
                     <t:loop source="pageNames" value="pageName">
                         <li><t:pagelink page="prop:pageName">${pageNameText}</t:pagelink></li>
                     </t:loop>
                 </ul>
             </div>
             <div id="main">
+                <table>
+                    <tr>
+                        <td id="td2">
+                            <img class="displayed" src="${context:layout/images/SBC_pw-sl-scout-t.jpg}" alt=""/>
+                        </td>
+                    </tr>
+                </table>
                 <t:alerts/>
-                <div id="welcome" class="layoutPadding">
+                <!--<div id="welcome" class="layoutPadding">-->
                     <br/>
                     <t:body/>
+                <!--</div>-->
+                <br/>
+                <p id="footer" class="legal">
                     <div class="title">
-                        <h3>Welcome to Scouting</h3>
+                        <h2>Welcome to Scouting</h2>
                         <span class="byline">What better way to spend your day</span>
                     </div>
-                </div>
-            </div>
-            <div id="footer">
-                <br/>
-                <p class="legal">
                     Site Created by: Scott Weatbrook
                 </p>
             </div>
