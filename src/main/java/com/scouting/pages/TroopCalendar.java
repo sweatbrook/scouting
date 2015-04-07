@@ -32,7 +32,7 @@ public class TroopCalendar {
         javaScriptSupport.addScript(
                 "scheduler.config.xml_date = \"%Y-%m-%d %H:%i\";");
         javaScriptSupport.addScript(
-                "scheduler.init('scheduler_here', new Date(2015, 2, 1), \"month\");");
+                "scheduler.init('scheduler_here', new Date(), \"month\");");
         javaScriptSupport.addScript(
                 "scheduler.locale.labels.section_type = \"Type\";");
         javaScriptSupport.addScript("scheduler.config.lightbox.sections = [\n"

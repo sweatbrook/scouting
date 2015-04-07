@@ -4,20 +4,8 @@
     <list default="true" id="505977be-e07f-45c5-a09c-dddd0ff25bce" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/scouting/pages/TroopCalendar.class" afterPath="$PROJECT_DIR$/target/classes/com/scouting/pages/TroopCalendar.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scouting-1.0-SNAPSHOT/WEB-INF/classes/com/scouting/pages/TroopCalendar.class" afterPath="$PROJECT_DIR$/target/scouting-1.0-SNAPSHOT/WEB-INF/classes/com/scouting/pages/TroopCalendar.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scouting-1.0-SNAPSHOT.war" afterPath="$PROJECT_DIR$/target/scouting-1.0-SNAPSHOT.war" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/com/scouting/pages/Home.tml" afterPath="$PROJECT_DIR$/src/main/resources/com/scouting/pages/Home.tml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/scouting/pages/Home.tml" afterPath="$PROJECT_DIR$/target/classes/com/scouting/pages/Home.tml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scouting-1.0-SNAPSHOT/WEB-INF/classes/com/scouting/pages/Home.tml" afterPath="$PROJECT_DIR$/target/scouting-1.0-SNAPSHOT/WEB-INF/classes/com/scouting/pages/Home.tml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/com/scouting/components/Layout.tml" afterPath="$PROJECT_DIR$/src/main/resources/com/scouting/components/Layout.tml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/scouting/components/Layout.tml" afterPath="$PROJECT_DIR$/target/classes/com/scouting/components/Layout.tml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scouting-1.0-SNAPSHOT/WEB-INF/classes/com/scouting/components/Layout.tml" afterPath="$PROJECT_DIR$/target/scouting-1.0-SNAPSHOT/WEB-INF/classes/com/scouting/components/Layout.tml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/scouting/pages/TroopCalendar.java" afterPath="$PROJECT_DIR$/src/main/java/com/scouting/pages/TroopCalendar.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/com/scouting/pages/TroopCalendar.tml" afterPath="$PROJECT_DIR$/src/main/resources/com/scouting/pages/TroopCalendar.tml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/scouting/pages/TroopCalendar.tml" afterPath="$PROJECT_DIR$/target/classes/com/scouting/pages/TroopCalendar.tml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scouting-1.0-SNAPSHOT/WEB-INF/classes/com/scouting/pages/TroopCalendar.tml" afterPath="$PROJECT_DIR$/target/scouting-1.0-SNAPSHOT/WEB-INF/classes/com/scouting/pages/TroopCalendar.tml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/layout/default.css" afterPath="$PROJECT_DIR$/src/main/webapp/layout/default.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scouting-1.0-SNAPSHOT/layout/default.css" afterPath="$PROJECT_DIR$/target/scouting-1.0-SNAPSHOT/layout/default.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/eventcalendar/codebase/locale/locale_id.js" afterPath="$PROJECT_DIR$/src/main/webapp/eventcalendar/codebase/locale/locale_id.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="scouting.iws" />
@@ -65,7 +53,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/com/scouting/pages/TroopCalendar.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.75">
-              <caret line="59" column="0" selection-start-line="59" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
+              <caret line="48" column="0" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -727,12 +715,12 @@
       <workItem from="1428354836928" duration="88000" />
       <workItem from="1428355684263" duration="5170000" />
       <workItem from="1428416352324" duration="155000" />
-      <workItem from="1428418173715" duration="9459000" />
+      <workItem from="1428418173715" duration="10094000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35692000" />
+    <option name="totallyTimeSpent" value="36327000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="0" width="1602" height="871" extended-state="6" />
@@ -786,7 +774,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/scouting/pages/TroopCalendar.java</url>
-          <line>30</line>
+          <line>20</line>
           <properties />
         </line-breakpoint>
       </breakpoints>
@@ -1229,7 +1217,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/scouting/pages/TroopCalendar.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.75">
-          <caret line="59" column="0" selection-start-line="59" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
+          <caret line="48" column="0" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
           <folding />
         </state>
       </provider>
