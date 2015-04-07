@@ -2,12 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="505977be-e07f-45c5-a09c-dddd0ff25bce" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/scouting/pages/TroopCalendar.class" afterPath="$PROJECT_DIR$/target/classes/com/scouting/pages/TroopCalendar.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scouting-1.0-SNAPSHOT/WEB-INF/classes/com/scouting/pages/TroopCalendar.class" afterPath="$PROJECT_DIR$/target/scouting-1.0-SNAPSHOT/WEB-INF/classes/com/scouting/pages/TroopCalendar.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scouting-1.0-SNAPSHOT.war" afterPath="$PROJECT_DIR$/target/scouting-1.0-SNAPSHOT.war" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/com/scouting/pages/Home.tml" afterPath="$PROJECT_DIR$/src/main/resources/com/scouting/pages/Home.tml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/scouting/pages/Home.tml" afterPath="$PROJECT_DIR$/target/classes/com/scouting/pages/Home.tml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scouting-1.0-SNAPSHOT/WEB-INF/classes/com/scouting/pages/Home.tml" afterPath="$PROJECT_DIR$/target/scouting-1.0-SNAPSHOT/WEB-INF/classes/com/scouting/pages/Home.tml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/com/scouting/components/Layout.tml" afterPath="$PROJECT_DIR$/src/main/resources/com/scouting/components/Layout.tml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/scouting/components/Layout.tml" afterPath="$PROJECT_DIR$/target/classes/com/scouting/components/Layout.tml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scouting-1.0-SNAPSHOT/WEB-INF/classes/com/scouting/components/Layout.tml" afterPath="$PROJECT_DIR$/target/scouting-1.0-SNAPSHOT/WEB-INF/classes/com/scouting/components/Layout.tml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/scouting/pages/TroopCalendar.java" afterPath="$PROJECT_DIR$/src/main/java/com/scouting/pages/TroopCalendar.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/com/scouting/pages/TroopCalendar.tml" afterPath="$PROJECT_DIR$/src/main/resources/com/scouting/pages/TroopCalendar.tml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/scouting/pages/TroopCalendar.tml" afterPath="$PROJECT_DIR$/target/classes/com/scouting/pages/TroopCalendar.tml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scouting-1.0-SNAPSHOT/WEB-INF/classes/com/scouting/pages/TroopCalendar.tml" afterPath="$PROJECT_DIR$/target/scouting-1.0-SNAPSHOT/WEB-INF/classes/com/scouting/pages/TroopCalendar.tml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/layout/default.css" afterPath="$PROJECT_DIR$/src/main/webapp/layout/default.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scouting-1.0-SNAPSHOT/layout/default.css" afterPath="$PROJECT_DIR$/target/scouting-1.0-SNAPSHOT/layout/default.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="scouting.iws" />
@@ -31,31 +41,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Home.tml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/com/scouting/pages/Home.tml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0">
-              <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Layout.tml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/resources/com/scouting/components/Layout.tml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="46" column="23" selection-start-line="46" selection-start-column="23" selection-end-line="46" selection-end-column="23" />
+            <state vertical-scroll-proportion="-0.0">
+              <caret line="28" column="23" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="23" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="default.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="default.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/layout/default.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-3.0555556">
-              <caret line="552" column="0" selection-start-line="552" selection-start-column="0" selection-end-line="552" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="611" column="0" selection-start-line="611" selection-start-column="0" selection-end-line="611" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TroopCalendar.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/scouting/pages/TroopCalendar.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.75">
+              <caret line="59" column="0" selection-start-line="59" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -85,36 +95,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TroopCalendar.tml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/com/scouting/pages/TroopCalendar.tml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="About.tml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/com/scouting/pages/About.tml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Contact.tml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/com/scouting/pages/Contact.tml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="5" column="31" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="Git.Settings">
@@ -139,6 +119,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/scouting/components/Layout.java" />
         <option value="$PROJECT_DIR$/src/main/resources/com/scouting/components/Layout.tml" />
         <option value="$PROJECT_DIR$/src/main/webapp/layout/default.css" />
+        <option value="$PROJECT_DIR$/src/main/java/com/scouting/pages/TroopCalendar.java" />
       </list>
     </option>
   </component>
@@ -165,9 +146,8 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-1" />
-    <option name="y" value="625" />
     <option name="width" value="1602" />
-    <option name="height" value="245" />
+    <option name="height" value="871" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -192,6 +172,8 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="TapestryProjectView" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -213,8 +195,6 @@
         </subPane>
       </pane>
       <pane id="Scratches" />
-      <pane id="TapestryProjectView" />
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -746,14 +726,16 @@
       <workItem from="1428334675456" duration="167000" />
       <workItem from="1428354836928" duration="88000" />
       <workItem from="1428355684263" duration="5170000" />
+      <workItem from="1428416352324" duration="155000" />
+      <workItem from="1428418173715" duration="9459000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26078000" />
+    <option name="totallyTimeSpent" value="35692000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1" y="625" width="1602" height="245" extended-state="0" />
+    <frame x="-1" y="0" width="1602" height="871" extended-state="6" />
     <editor active="false" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -779,7 +761,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3294423" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17181467" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="1.0" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.4333782" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -800,58 +782,27 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
-    <watches-manager />
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/scouting/pages/TroopCalendar.java</url>
+          <line>30</line>
+          <properties />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="GlassfishConfiguration">
+        <watch expression="javaScriptSupport" language="JAVA" custom="" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/resources/com/scouting/pages/Home.tml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/com/scouting/components/Layout.tml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="26" column="23" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/layout/default.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="536" column="0" selection-start-line="536" selection-start-column="0" selection-end-line="536" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/scouting/components/Layout.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#1226#1227#0" expanded="false" />
-            <element signature="e#1271#1272#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/layout/layout.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/com/scouting/pages/TroopCalendar.tml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1166,8 +1117,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/com/scouting/pages/Home.tml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+        <state vertical-scroll-proportion="-3.125">
+          <caret line="14" column="10" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
           <folding />
         </state>
       </provider>
@@ -1175,7 +1126,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/resources/com/scouting/pages/TroopCalendar.tml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <caret line="48" column="0" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1203,7 +1154,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/resources/com/scouting/components/Layout.tml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="46" column="23" selection-start-line="46" selection-start-column="23" selection-end-line="46" selection-end-column="23" />
+          <caret line="28" column="23" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="23" />
           <folding />
         </state>
       </provider>
@@ -1216,10 +1167,69 @@
         </state>
       </provider>
     </entry>
+    <entry file="http://localhost:8080/scouting/Home">
+      <provider selected="true" editor-type-id="httpFileEditor">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/layout/default.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.0555556">
-          <caret line="552" column="0" selection-start-line="552" selection-start-column="0" selection-end-line="552" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="611" column="0" selection-start-line="611" selection-start-column="0" selection-end-line="611" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/tapestry/tapestry-core/5.3.8/tapestry-core-5.3.8.jar!/org/apache/tapestry5/services/TapestryModule.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33333334">
+          <caret line="1162" column="0" selection-start-line="1162" selection-start-column="0" selection-end-line="1162" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/tapestry/tapestry-core/5.3.8/tapestry-core-5.3.8.jar!/org/apache/tapestry5/internal/services/MarkupRendererTerminator.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.41984734">
+          <caret line="18" column="16" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
+          <folding>
+            <element signature="e#608#609#0" expanded="true" />
+            <element signature="e#659#660#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/tapestry/tapestry-core/5.3.8/tapestry-core-5.3.8.jar!/org/apache/tapestry5/internal/services/PageRenderQueueImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.35368958">
+          <caret line="70" column="16" selection-start-line="70" selection-start-column="16" selection-end-line="70" selection-end-column="16" />
+          <folding>
+            <element signature="e#2373#2374#0" expanded="true" />
+            <element signature="e#2411#2412#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/tapestry/tapestry-core/5.3.8/tapestry-core-5.3.8.jar!/org/apache/tapestry5/internal/services/RenderQueueImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.35368958">
+          <caret line="42" column="0" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/tapestry/tapestry-core/5.3.8/tapestry-core-5.3.8.jar!/org/apache/tapestry5/internal/structure/ComponentPageElementImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33333334">
+          <caret line="866" column="0" selection-start-line="866" selection-start-column="0" selection-end-line="866" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/scouting/pages/TroopCalendar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.75">
+          <caret line="59" column="0" selection-start-line="59" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
           <folding />
         </state>
       </provider>

@@ -9,6 +9,10 @@
             CKEDITOR.replace('editor1');
         </script>
     </div>
+    <div id="inlineEditing" t:type="any" t:id="inlineEditing" contenteditable="true">
+        <h1>This is fun!</h1>
+        <p>The div element is now editable.</p>
+    </div>
     <br/>
     <button id="editbutton" onclick="$('editdiv').style.display = 'inline'; $('savebutton').style.display = 'inline'; $('editbutton').style.display = 'none';">
         Edit Announcements

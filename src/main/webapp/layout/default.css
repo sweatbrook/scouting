@@ -1,6 +1,7 @@
 html, body
 {
     height: 100%;
+    overflow: hidden;
 }
 
 body
@@ -14,6 +15,14 @@ body
     color: #acacac;
 }
 
+#troop228Div
+{
+    margin: 0;
+    padding: 0;
+    font-weight: bold;
+    color: #000;
+    font-size: xx-large;
+}
 
 h1, h2
 {
@@ -442,8 +451,9 @@ img.displayed
     margin-left: auto;
     margin-right: auto;
     border-radius: 10%;
-    width: 45%;
-    height: 30%
+    border: solid green;
+    width: 65%;
+    height: 50%
 }
 
 /*********************************************************************************/
@@ -481,8 +491,10 @@ img.displayed
 #logo img
 {
     border-radius: 50%;
-    width: 35%;
-    height: 35%;
+    border: solid #349650;
+    border-color: green;
+    width: 50%;
+    height: 50%;
 }
 
 /*********************************************************************************/
@@ -560,10 +572,11 @@ img.displayed
     overflow: auto;
     float: right;
     width: 77.5%;
-    height: 100%;
+    height: 98.5%;
     padding: auto;
     background: #FFF;
     text-align: center;
+    border-radius: 5%;
 }
 
 /*********************************************************************************/
