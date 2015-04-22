@@ -1,5 +1,6 @@
 com/scouting/components/Layout.class
 com/scouting/services/ScoutModule.class
+com/scouting/pages/TroopCalendar$1.class
 com/scouting/pages/Contact.class
 com/scouting/pages/Home.class
 com/scouting/pages/About.class

@@ -2,7 +2,7 @@
       xmlns:t="http://tapestry.apache.org/schema/tapestry_5_3.xsd"
       xmlns:p="tapestry:parameter">
 
-    <!--    <iframe id="googleCalendar"
+        <iframe id="googleCalendar"
                 src="https://www.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=roy9thwardscouttroop228%40gmail.com&amp;color=%231B887A&amp;ctz=America%2FDenver"
                 style="border-width:0"
                 width="800"
@@ -10,8 +10,8 @@
                 frameborder="0"
                 scrolling="no">
         </iframe>
-        <br/>-->
-    <div id="troop228Div">
+        <br/>
+<!--    <div id="troop228Div">
         <t:output t:id="troop228" id="troop228" t:value="troopText" t:format="troopTextFormat"/>
     </div>
     <br/>
@@ -29,6 +29,6 @@
         </div>
         <div class="dhx_cal_data">
         </div>
-    </div>
+    </div>-->
 
 </html>
